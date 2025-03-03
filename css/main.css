@@ -146,6 +146,21 @@ img.affiliations {
   margin: auto;
 }
 
+img.git {
+  display: block;
+  padding: 20px 0;
+  max-width: 80%;
+  height: auto;
+}
+
+.video-container {
+  padding: 20px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+video
 
 div.resource {
   width: 70px;
